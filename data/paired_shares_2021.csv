@@ -1,0 +1,10 @@
+source,label,reported_count,reconciled_count,adult_share_pct,total_wealth_bn,wealth_share_pct,notes
+Credit Suisse,<$10k,2818000000,2818000000,53.184863640653,5000,1.078515962036,Direct Credit Suisse band total divided by the Credit Suisse global total
+Credit Suisse,$10k–$100k,1791000000,1791000000,33.802019439464,60400,13.028472821398,Direct Credit Suisse band total divided by the Credit Suisse global total
+Credit Suisse,$100k–$1m,627000000,627000000,11.833537793715,176500,38.071613459879,Direct Credit Suisse band total divided by the Credit Suisse global total
+World Inequality Lab,$1m–$10m,60319510,60644399.026014,1.144557875361,141337.407471165,30.486929998094,WIR share within $1m+ applied to Credit Suisse's 62.5m adults and $221.7tn
+World Inequality Lab,$10m–$100m,1769200,1778729.150101,0.033570428425,42744.706489929,9.220169648389,WIR share within $1m+ applied to Credit Suisse's 62.5m adults and $221.7tn
+World Inequality Lab,$100m–$1b,73710,74107.012013,0.001398641352,20990.704079876,4.527761880905,WIR share within $1m+ applied to Credit Suisse's 62.5m adults and $221.7tn
+World Inequality Lab,$1b–$10b,2582,2595.907001,0.000048993243,9643.002237907,2.080026367107,WIR share within $1m+ applied to Credit Suisse's 62.5m adults and $221.7tn
+World Inequality Lab,$10b–$100b,159,159.856395,0.000003017012,5304.923394732,1.144288911720,WIR share within $1m+ applied to Credit Suisse's 62.5m adults and $221.7tn
+World Inequality Lab,$100b–$1t,9,9.048475,0.000000170774,1679.256326390,0.362220950472,WIR share within $1m+ applied to Credit Suisse's 62.5m adults and $221.7tn

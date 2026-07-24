@@ -1,0 +1,9 @@
+source,lower_usd,upper_usd,label,count,measurement_year,source_url,notes
+UBS,10000,100000,$10k–$100k,1570000000,2024,https://www.ubs.com/content/dam/assets/wm/static/noindex/gwr-2025-digital-updated.pdf,Global Wealth Report 2025 wealth-pyramid estimate
+UBS,100000,1000000,$100k–$1m,628000000,2024,https://www.ubs.com/content/dam/assets/wm/static/noindex/gwr-2025-digital-updated.pdf,Global Wealth Report 2025 wealth-pyramid estimate
+UBS and Knight Frank,1000000,10000000,$1m–$10m,57658622,2024,https://content.knightfrank.com/research/3000/documents/en/the-wealh-report-2025-2025-12186.pdf,UBS $1m+ total (60m) minus Knight Frank $10m+ total (2341378)
+Knight Frank,10000000,100000000,$10m–$100m,2237318,2024,https://content.knightfrank.com/research/3000/documents/en/the-wealh-report-2025-2025-12186.pdf,$10m+ total (2341378) minus $100m+ total (104060)
+Knight Frank and Forbes,100000000,1000000000,$100m–$1b,101279,2024,https://www.forbes.com/sites/chasewithorn/2024/04/02/forbes-38th-annual-worlds-billionaires-list-facts-and-figures-2024/,$100m+ total (104060) minus Forbes billionaires (2781)
+Forbes,1000000000,10000000000,$1b–$10b,2554,2024,https://www.forbes.com/sites/chasewithorn/2024/04/02/forbes-38th-annual-worlds-billionaires-list-facts-and-figures-2024/,Forbes annual list valued 8 March 2024
+Forbes,10000000000,100000000000,$10b–$100b,213,2024,https://www.forbes.com/sites/chasewithorn/2024/04/02/forbes-38th-annual-worlds-billionaires-list-facts-and-figures-2024/,Forbes annual list valued 8 March 2024
+Forbes,100000000000,1000000000000,$100b–$1t,14,2024,https://www.forbes.com/sites/chasewithorn/2024/04/02/forbes-38th-annual-worlds-billionaires-list-facts-and-figures-2024/,Forbes reports 14 people at $100b+ and no trillionaires

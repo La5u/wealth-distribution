@@ -1,0 +1,10 @@
+label,start_index,span,total_wealth_bn,source,notes
+<$10k,0,1,2710,UBS,Direct 2024 wealth-pyramid total
+$10k–$100k,1,1,56820,UBS,Direct 2024 wealth-pyramid total
+$100k–$1m,2,1,184510,UBS,Direct 2024 wealth-pyramid total
+$1m–$10m,3,1,135890.917337,Modelled estimate,Power-law estimate from UBS and Knight Frank threshold counts; scaled with the other non-billionaire bands to reconcile to UBS wealth
+$10m–$100m,4,1,53815.785116,Modelled estimate,Power-law estimate from Knight Frank threshold counts; scaled with the other non-billionaire bands to reconcile to UBS wealth
+$100m–$1b,5,1,22553.697547,Modelled estimate,Power-law estimate from Knight Frank and Forbes threshold counts; scaled with the other non-billionaire bands to reconcile to UBS wealth
+$1b–$10b,6,1,7561.3,Forbes,Sum of 2554 fortunes in the Forbes 2024 annual list
+$10b–$100b,7,1,4675.3,Forbes,Sum of 213 fortunes in the Forbes 2024 annual list
+$100b–$1t,8,1,1973,Forbes,Sum of 14 fortunes in the Forbes 2024 annual list; no trillionaires

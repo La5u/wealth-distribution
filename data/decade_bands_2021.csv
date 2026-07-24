@@ -1,0 +1,9 @@
+source,lower_usd,upper_usd,label,count,measurement_year,source_url,notes
+Credit Suisse,10000,100000,$10k–$100k,1791000000,2021,https://bibbase.org/f/nKAPSyp34A9azBzJd/Shorrocksetal2022.pdf,Global Wealth Databook 2022 wealth-pyramid estimate
+Credit Suisse,100000,1000000,$100k–$1m,627000000,2021,https://bibbase.org/f/nKAPSyp34A9azBzJd/Shorrocksetal2022.pdf,Global Wealth Databook 2022 wealth-pyramid estimate
+World Inequality Lab,1000000,10000000,$1m–$10m,60319510,2021,https://wir2022.wid.world/www-site/uploads/2021/12/WorldInequalityReport2022_Full_Report.pdf,World Inequality Report 2022 table 7.1
+World Inequality Lab,10000000,100000000,$10m–$100m,1769200,2021,https://wir2022.wid.world/www-site/uploads/2021/12/WorldInequalityReport2022_Full_Report.pdf,World Inequality Report 2022 table 7.1
+World Inequality Lab,100000000,1000000000,$100m–$1b,73710,2021,https://wir2022.wid.world/www-site/uploads/2021/12/WorldInequalityReport2022_Full_Report.pdf,World Inequality Report 2022 table 7.1
+World Inequality Lab,1000000000,10000000000,$1b–$10b,2582,2021,https://wir2022.wid.world/www-site/uploads/2021/12/WorldInequalityReport2022_Full_Report.pdf,World Inequality Report 2022 table 7.1
+World Inequality Lab,10000000000,100000000000,$10b–$100b,159,2021,https://wir2022.wid.world/www-site/uploads/2021/12/WorldInequalityReport2022_Full_Report.pdf,World Inequality Report 2022 table 7.1
+World Inequality Lab,100000000000,1000000000000,$100b–$1t,9,2021,https://wir2022.wid.world/www-site/uploads/2021/12/WorldInequalityReport2022_Full_Report.pdf,Table 7.1 reports $100b+; no trillionaires in 2021

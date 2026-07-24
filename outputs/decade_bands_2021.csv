@@ -1,0 +1,9 @@
+lower_usd,upper_usd,label,count,source
+10000.0,100000.0,$10k–$100k,1791000000.0,Credit Suisse
+100000.0,1000000.0,$100k–$1m,627000000.0,Credit Suisse
+1000000.0,10000000.0,$1m–$10m,60319510.0,World Inequality Lab
+10000000.0,100000000.0,$10m–$100m,1769200.0,World Inequality Lab
+100000000.0,1000000000.0,$100m–$1b,73710.0,World Inequality Lab
+1000000000.0,10000000000.0,$1b–$10b,2582.0,World Inequality Lab
+10000000000.0,100000000000.0,$10b–$100b,159.0,World Inequality Lab
+100000000000.0,1000000000000.0,$100b–$1t,9.0,World Inequality Lab
